@@ -50,10 +50,10 @@ This ensures efficient and automated irrigation.
 ## 📸 Project Images
 
 ### Architecture Diagram
-![Architecture](images/Architecture.jpeg)
+![Architecture](images/Architecture.png)
 
 ### Circuit Diagram
-![Circuit](images/Circuit.jpeg)
+![Circuit](images/Circuit.png)
 
 ---
 
