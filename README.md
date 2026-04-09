@@ -47,6 +47,16 @@ This ensures efficient and automated irrigation.
 
 ---
 
+## 📸 Project Images
+
+### Architecture Diagram
+![Architecture](images/Architecture.jpeg)
+
+### Circuit Diagram
+![Circuit](images/Circuit.jpeg)
+
+---
+
 ## 💻 Source Code
 
 ```cpp
